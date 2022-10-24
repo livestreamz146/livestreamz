@@ -74,5 +74,8 @@ footer{
         margin:3em;
         background: green;
     }
+    hr{
+        display:none;
+    }
 }
 
