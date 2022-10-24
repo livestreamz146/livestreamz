@@ -70,5 +70,8 @@ footer{
         bottom: 0;
         left: 30%;
     }
+    main button{
+        margin:3em;
+    }
 }
 
