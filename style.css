@@ -9,6 +9,7 @@ body{
     height: 100vh;
 }
 marquee{
+    width:30px;
     background-color: red;
     color: white;
     font-family: Segoe UI;
