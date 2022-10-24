@@ -72,6 +72,7 @@ footer{
     }
     main button{
         margin:3em;
+        background: green;
     }
 }
 
